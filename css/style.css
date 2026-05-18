@@ -260,6 +260,11 @@ input {
     background: url(../img/bg_cars-card.png) center bottom no-repeat;
 }
 
+.cars__images img {
+    width: 100%;
+
+}
+
 .cars__card {
     max-width: 560px;
     padding: 24px;
@@ -667,6 +672,12 @@ li::before {
 
     .header__line {
         display: none;
+    }
+
+    .modal {
+
+        width: 250px;
+
     }
 
 }
