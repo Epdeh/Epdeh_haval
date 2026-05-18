@@ -1,1 +1,1 @@
-(https://epdeh-testhaval.netlify.app/)
+https://epdeh-testhaval.netlify.app
