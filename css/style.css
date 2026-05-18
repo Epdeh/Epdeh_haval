@@ -117,7 +117,7 @@ body {
 }
 
 .promo {
-    background: url(../img/promo.png) center center / cover no-repeat;
+    background: url(../img/promo.webp) center center / cover no-repeat;
     min-height: 756px;
 }
 
